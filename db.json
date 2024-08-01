@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "abvutienviet@gmail.com",
+      "price": "600000",
+      "brand": "Appler",
+      "isShow": false,
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "abvutienviet@gmail.com",
+      "password": "$2a$10$pLoS4/UEiFdoqDx0UDZI0eENxtABXaKDpvexHa0Cs4mTK9GgXOvCu",
+      "id": 1
+    }
+  ]
+}
